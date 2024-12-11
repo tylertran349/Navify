@@ -1,0 +1,4421 @@
+{
+  "24411965": {
+    "name": "Kemper Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7544597,
+        38.537223
+      ],
+      [
+        -121.7543632,
+        38.5371395
+      ],
+      [
+        -121.754398,
+        38.5366624
+      ],
+      [
+        -121.7546887,
+        38.5369526
+      ],
+      [
+        -121.7549994,
+        38.5368981
+      ],
+      [
+        -121.755062,
+        38.5372303
+      ],
+      [
+        -121.7544597,
+        38.537223
+      ]
+    ]
+  },
+  "24411978": {
+    "name": "Quad Parking Structure",
+    "type": "garage",
+    "coordinates": []
+  },
+  "25020794": {
+    "name": "Bainer Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7531396,
+        38.5376606
+      ],
+      [
+        -121.7530855,
+        38.5374713
+      ],
+      [
+        -121.7530309,
+        38.5374116
+      ],
+      [
+        -121.7523214,
+        38.5374771
+      ],
+      [
+        -121.7522943,
+        38.5373819
+      ],
+      [
+        -121.7522652,
+        38.5372802
+      ],
+      [
+        -121.7529437,
+        38.5370899
+      ],
+      [
+        -121.7529373,
+        38.5369492
+      ],
+      [
+        -121.7537433,
+        38.5366528
+      ],
+      [
+        -121.7541531,
+        38.5373437
+      ],
+      [
+        -121.7531396,
+        38.5376606
+      ]
+    ]
+  },
+  "25055412": {
+    "name": "Roessler Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7518616,
+        38.5371942
+      ],
+      [
+        -121.7517634,
+        38.5368869
+      ],
+      [
+        -121.7518616,
+        38.5371942
+      ]
+    ]
+  },
+  "25055476": {
+    "name": "Walker Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.750299,
+        38.5395801
+      ],
+      [
+        -121.7503884,
+        38.5395629
+      ],
+      [
+        -121.7505581,
+        38.5397231
+      ],
+      [
+        -121.7506699,
+        38.5395681
+      ],
+      [
+        -121.7507724,
+        38.5395513
+      ],
+      [
+        -121.7509356,
+        38.5396581
+      ],
+      [
+        -121.7510071,
+        38.5394572
+      ],
+      [
+        -121.7510917,
+        38.5394424
+      ],
+      [
+        -121.7507981,
+        38.5398358
+      ],
+      [
+        -121.750299,
+        38.5395801
+      ]
+    ]
+  },
+  "25055497": {
+    "name": "Clark Kerr Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7517245,
+        38.5415488
+      ],
+      [
+        -121.752244,
+        38.5414576
+      ],
+      [
+        -121.752269,
+        38.54159
+      ],
+      [
+        -121.7517049,
+        38.541689
+      ],
+      [
+        -121.7517245,
+        38.5415488
+      ]
+    ]
+  },
+  "25229170": {
+    "name": "University Credit Union Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7593545,
+        38.5421222
+      ],
+      [
+        -121.7593653,
+        38.5415033
+      ],
+      [
+        -121.7599302,
+        38.5415042
+      ],
+      [
+        -121.7599208,
+        38.5421304
+      ],
+      [
+        -121.7593545,
+        38.5421222
+      ]
+    ]
+  },
+  "25229177": {
+    "name": "Hoagland Annex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7551417,
+        38.541642
+      ]
+    ]
+  },
+  "25229191": {
+    "name": "Hoagland Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7542217,
+        38.541984
+      ],
+      [
+        -121.7543497,
+        38.5422184
+      ],
+      [
+        -121.7542217,
+        38.541984
+      ]
+    ]
+  },
+  "25229225": {
+    "name": "Haring Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7525818,
+        38.5398475
+      ],
+      [
+        -121.7524624,
+        38.5397066
+      ],
+      [
+        -121.7525804,
+        38.5393892
+      ],
+      [
+        -121.7531424,
+        38.5395657
+      ],
+      [
+        -121.7536946,
+        38.539396
+      ],
+      [
+        -121.754012,
+        38.5392988
+      ],
+      [
+        -121.7543356,
+        38.539688
+      ],
+      [
+        -121.7543561,
+        38.5401327
+      ],
+      [
+        -121.7529503,
+        38.5403588
+      ],
+      [
+        -121.7527016,
+        38.5405621
+      ],
+      [
+        -121.7525818,
+        38.5398475
+      ]
+    ]
+  },
+  "25229419": {
+    "name": "Stanley B. Freeborn Hall",
+    "type": "university",
+    "coordinates": []
+  },
+  "25229455": {
+    "name": "Hunt Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7504308,
+        38.5437943
+      ],
+      [
+        -121.75037,
+        38.5432463
+      ],
+      [
+        -121.75086,
+        38.5431228
+      ],
+      [
+        -121.7504956,
+        38.5433796
+      ],
+      [
+        -121.7504528,
+        38.5434163
+      ],
+      [
+        -121.7505295,
+        38.543687
+      ],
+      [
+        -121.7504308,
+        38.5437943
+      ]
+    ]
+  },
+  "25268114": {
+    "name": "Medical Sciences 1C",
+    "type": "university",
+    "coordinates": []
+  },
+  "25278660": {
+    "name": "Olson Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7474266,
+        38.5400695
+      ],
+      [
+        -121.7475282,
+        38.5397938
+      ],
+      [
+        -121.7476017,
+        38.5397808
+      ],
+      [
+        -121.747705,
+        38.5402398
+      ],
+      [
+        -121.7474266,
+        38.5400695
+      ]
+    ]
+  },
+  "25291767": {
+    "name": "George Hart Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7505711,
+        38.5405039
+      ],
+      [
+        -121.7510019,
+        38.5405917
+      ],
+      [
+        -121.750805,
+        38.5407753
+      ],
+      [
+        -121.7507487,
+        38.5410223
+      ],
+      [
+        -121.7505711,
+        38.5405039
+      ]
+    ]
+  },
+  "25291802": {
+    "name": "Wellman Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7511522,
+        38.5414553
+      ],
+      [
+        -121.7511103,
+        38.5413101
+      ],
+      [
+        -121.7516652,
+        38.541203
+      ],
+      [
+        -121.7517115,
+        38.5413642
+      ],
+      [
+        -121.7511522,
+        38.5414553
+      ]
+    ]
+  },
+  "25291850": {
+    "name": "Wickson Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7510329,
+        38.5420181
+      ],
+      [
+        -121.7515503,
+        38.5419163
+      ],
+      [
+        -121.751992,
+        38.541818
+      ],
+      [
+        -121.7516283,
+        38.54219
+      ],
+      [
+        -121.7511751,
+        38.542287
+      ],
+      [
+        -121.7510329,
+        38.5420181
+      ]
+    ]
+  },
+  "25291920": {
+    "name": "Veihmeyer Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7518484,
+        38.5429077
+      ],
+      [
+        -121.7525689,
+        38.5427823
+      ],
+      [
+        -121.7527489,
+        38.5428037
+      ],
+      [
+        -121.7518484,
+        38.5429077
+      ]
+    ]
+  },
+  "25291954": {
+    "name": "Sprocket Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7549355,
+        38.542765
+      ]
+    ]
+  },
+  "25291975": {
+    "name": "Knowles A. Ryerson Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.758683,
+        38.5453397
+      ],
+      [
+        -121.7587309,
+        38.5454666
+      ],
+      [
+        -121.758683,
+        38.5453397
+      ]
+    ]
+  },
+  "25292012": {
+    "name": "Robert K. Malcolm Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7576039,
+        38.5453786
+      ]
+    ]
+  },
+  "25292023": {
+    "name": "John W. Gilmore Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7586226,
+        38.5446292
+      ]
+    ]
+  },
+  "25292039": {
+    "name": "Fred H. Bixby Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7576093,
+        38.5443655
+      ]
+    ]
+  },
+  "25292078": {
+    "name": "Segundo Dining Commons",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.758141,
+        38.5441058
+      ]
+    ]
+  },
+  "25292099": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": [
+      [
+        -121.7565789,
+        38.54538
+      ]
+    ]
+  },
+  "25292155": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "25292186": {
+    "name": "Activities and Recreation Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7591999,
+        38.5434666
+      ],
+      [
+        -121.7589993,
+        38.5432104
+      ],
+      [
+        -121.7589734,
+        38.5427869
+      ],
+      [
+        -121.7590905,
+        38.5425852
+      ],
+      [
+        -121.7591925,
+        38.5425128
+      ],
+      [
+        -121.7602073,
+        38.5428062
+      ],
+      [
+        -121.760279,
+        38.5429227
+      ],
+      [
+        -121.7599894,
+        38.5434924
+      ],
+      [
+        -121.7591999,
+        38.5434666
+      ]
+    ]
+  },
+  "25303784": {
+    "name": "Everson Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7500089,
+        38.5385875
+      ],
+      [
+        -121.7498958,
+        38.5381354
+      ],
+      [
+        -121.7500847,
+        38.5381833
+      ],
+      [
+        -121.7501818,
+        38.538523
+      ],
+      [
+        -121.7500089,
+        38.5385875
+      ]
+    ]
+  },
+  "25303795": {
+    "name": "Physical Sciences and Engineering Library",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7510172,
+        38.5372274
+      ]
+    ]
+  },
+  "25303821": {
+    "name": "Physics",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7513687,
+        38.5368208
+      ]
+    ]
+  },
+  "25303840": {
+    "name": "Walter A. Buehler Alumni Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "25303844": {
+    "name": "Mondavi Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "25303850": {
+    "name": "Academic Surge Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7522901,
+        38.5353807
+      ],
+      [
+        -121.752418,
+        38.5350788
+      ],
+      [
+        -121.7535201,
+        38.5353934
+      ],
+      [
+        -121.7522901,
+        38.5353807
+      ]
+    ]
+  },
+  "25303852": {
+    "name": "Watershed Science Research Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7527297,
+        38.5346527
+      ]
+    ]
+  },
+  "25303873": {
+    "name": "Ghausi Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7534607,
+        38.5357454
+      ],
+      [
+        -121.7537827,
+        38.5362921
+      ],
+      [
+        -121.7537268,
+        38.5363747
+      ],
+      [
+        -121.7533369,
+        38.536411
+      ],
+      [
+        -121.7534607,
+        38.5357454
+      ]
+    ]
+  },
+  "25303879": {
+    "name": "Jungerman Hall",
+    "type": "university",
+    "coordinates": []
+  },
+  "25304278": {
+    "name": "Pavilion Parking Structure",
+    "type": "garage",
+    "coordinates": []
+  },
+  "25304342": {
+    "name": "Life Sciences",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7567592,
+        38.5395999
+      ],
+      [
+        -121.7562161,
+        38.5395601
+      ],
+      [
+        -121.7568425,
+        38.5394649
+      ],
+      [
+        -121.7567592,
+        38.5395999
+      ]
+    ]
+  },
+  "25304349": {
+    "name": "Sciences Lab Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7546337,
+        38.5396202
+      ],
+      [
+        -121.7547948,
+        38.5392277
+      ],
+      [
+        -121.7551386,
+        38.5400186
+      ],
+      [
+        -121.7550789,
+        38.5402303
+      ],
+      [
+        -121.7546337,
+        38.5396202
+      ]
+    ]
+  },
+  "25304350": {
+    "name": "Storer Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7543566,
+        38.5407564
+      ]
+    ]
+  },
+  "25304355": {
+    "name": "Hutchison Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7536488,
+        38.5410096
+      ]
+    ]
+  },
+  "25304363": {
+    "name": "Cruess Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.753612,
+        38.5434693
+      ],
+      [
+        -121.7540663,
+        38.5433155
+      ],
+      [
+        -121.7544753,
+        38.5433191
+      ],
+      [
+        -121.753612,
+        38.5434693
+      ]
+    ]
+  },
+  "25304365": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": [
+      [
+        -121.7557942,
+        38.5455202
+      ]
+    ]
+  },
+  "25304366": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": [
+      [
+        -121.7561704,
+        38.5450823
+      ]
+    ]
+  },
+  "25304370": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": [
+      [
+        -121.755318,
+        38.5450958
+      ],
+      [
+        -121.7553184,
+        38.5453787
+      ],
+      [
+        -121.755318,
+        38.5450958
+      ]
+    ]
+  },
+  "25304381": {
+    "name": "Sproul Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7470775,
+        38.5401081
+      ]
+    ]
+  },
+  "25354537": {
+    "name": "Human Resources",
+    "type": "university",
+    "coordinates": []
+  },
+  "25354553": {
+    "name": "Outdoor Adventures",
+    "type": "university",
+    "coordinates": []
+  },
+  "25354568": {
+    "name": "Mathematical Sciences Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7525859,
+        38.5358943
+      ]
+    ]
+  },
+  "25354570": {
+    "name": "Art Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7481982,
+        38.5390358
+      ],
+      [
+        -121.7488937,
+        38.5388667
+      ],
+      [
+        -121.7481982,
+        38.5390358
+      ]
+    ]
+  },
+  "25354602": {
+    "name": "Wright Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7478764,
+        38.5390517
+      ]
+    ]
+  },
+  "25354640": {
+    "name": "School Of Education",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7472443,
+        38.5405895
+      ],
+      [
+        -121.746887,
+        38.5406818
+      ],
+      [
+        -121.7466147,
+        38.5403188
+      ],
+      [
+        -121.7468001,
+        38.5404735
+      ],
+      [
+        -121.747154,
+        38.5405074
+      ],
+      [
+        -121.7472489,
+        38.5403602
+      ],
+      [
+        -121.7472443,
+        38.5405895
+      ]
+    ]
+  },
+  "25354999": {
+    "name": "Plant and Environmental Sciences Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7515973,
+        38.5431361
+      ],
+      [
+        -121.7518122,
+        38.5433433
+      ],
+      [
+        -121.7527254,
+        38.5430765
+      ],
+      [
+        -121.7519025,
+        38.5436559
+      ],
+      [
+        -121.7515973,
+        38.5431361
+      ]
+    ]
+  },
+  "25355670": {
+    "name": "Kearney Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7579755,
+        38.5358996
+      ],
+      [
+        -121.7583812,
+        38.5357853
+      ],
+      [
+        -121.7579755,
+        38.5358996
+      ]
+    ]
+  },
+  "25355672": {
+    "name": "Laben Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7582783,
+        38.5355101
+      ],
+      [
+        -121.7579701,
+        38.5355413
+      ],
+      [
+        -121.758233,
+        38.5354147
+      ],
+      [
+        -121.7582783,
+        38.5355101
+      ]
+    ]
+  },
+  "25355681": {
+    "name": "Robbins Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7514711,
+        38.5403747
+      ],
+      [
+        -121.7519267,
+        38.5401736
+      ],
+      [
+        -121.7521428,
+        38.5402932
+      ],
+      [
+        -121.7522642,
+        38.5407162
+      ],
+      [
+        -121.7514021,
+        38.5408742
+      ],
+      [
+        -121.7514711,
+        38.5403747
+      ]
+    ]
+  },
+  "25400241": {
+    "name": "City Hall",
+    "type": "civic",
+    "coordinates": []
+  },
+  "25420865": {
+    "name": "Max B. Kleiber Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7552471,
+        38.5407098
+      ]
+    ]
+  },
+  "25420873": {
+    "name": "Cowell Building - Occupational Health",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7539687,
+        38.5447334
+      ],
+      [
+        -121.7540162,
+        38.5443899
+      ],
+      [
+        -121.7543746,
+        38.5439789
+      ],
+      [
+        -121.7539687,
+        38.5447334
+      ]
+    ]
+  },
+  "25435376": {
+    "name": "The Grove",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7551293,
+        38.5387227
+      ],
+      [
+        -121.7554004,
+        38.5382907
+      ],
+      [
+        -121.7549157,
+        38.5383914
+      ],
+      [
+        -121.7546096,
+        38.5382
+      ],
+      [
+        -121.7560115,
+        38.5388486
+      ],
+      [
+        -121.755191,
+        38.5389475
+      ],
+      [
+        -121.7551293,
+        38.5387227
+      ]
+    ]
+  },
+  "25435387": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "25435391": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "25475912": {
+    "name": "Segundo North - R. Bryan Miller Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7572298,
+        38.545788
+      ]
+    ]
+  },
+  "25475917": {
+    "name": "Segundo North - Henry Alder Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7583332,
+        38.5458027
+      ]
+    ]
+  },
+  "25475921": {
+    "name": "Segundo North - OE Thompson Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7578433,
+        38.5459134
+      ]
+    ]
+  },
+  "25595576": {
+    "name": "Sciences Lab Lecture Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7557904,
+        38.5393555
+      ],
+      [
+        -121.7560353,
+        38.5393333
+      ],
+      [
+        -121.7557904,
+        38.5393555
+      ]
+    ]
+  },
+  "25880164": {
+    "name": "Surge II",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7549155,
+        38.5385408
+      ]
+    ]
+  },
+  "25880193": {
+    "name": "Asmundson Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7530993,
+        38.5420314
+      ],
+      [
+        -121.7530982,
+        38.5416423
+      ],
+      [
+        -121.7530993,
+        38.5420314
+      ]
+    ]
+  },
+  "25902045": {
+    "name": "Mrak Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7491081,
+        38.5368663
+      ],
+      [
+        -121.7492076,
+        38.5372241
+      ],
+      [
+        -121.7491081,
+        38.5368663
+      ]
+    ]
+  },
+  "26321304": {
+    "name": "Transportation Services",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7587114,
+        38.540558
+      ],
+      [
+        -121.7586903,
+        38.5407774
+      ],
+      [
+        -121.7587324,
+        38.5409358
+      ],
+      [
+        -121.7587114,
+        38.540558
+      ]
+    ]
+  },
+  "26321327": {
+    "name": "Mann Lab",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7556202,
+        38.5417304
+      ],
+      [
+        -121.7556416,
+        38.5412986
+      ],
+      [
+        -121.7556202,
+        38.5417304
+      ]
+    ]
+  },
+  "26321337": {
+    "name": "Fire and Police Building",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7573821,
+        38.5406273
+      ],
+      [
+        -121.7573801,
+        38.5405581
+      ],
+      [
+        -121.7573821,
+        38.5406273
+      ]
+    ]
+  },
+  "26321343": {
+    "name": "Telecommunications Building",
+    "type": "university",
+    "coordinates": []
+  },
+  "26321374": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "26337255": {
+    "name": "Memorial Union",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7491252,
+        38.5425205
+      ],
+      [
+        -121.7492641,
+        38.5420759
+      ],
+      [
+        -121.7496051,
+        38.5421976
+      ],
+      [
+        -121.7495898,
+        38.5419561
+      ],
+      [
+        -121.7496953,
+        38.5418227
+      ],
+      [
+        -121.7498258,
+        38.5418004
+      ],
+      [
+        -121.7501217,
+        38.5417499
+      ],
+      [
+        -121.7502638,
+        38.5418921
+      ],
+      [
+        -121.7496833,
+        38.542462
+      ],
+      [
+        -121.7494564,
+        38.5425011
+      ],
+      [
+        -121.7494576,
+        38.5427175
+      ],
+      [
+        -121.7494966,
+        38.5428526
+      ],
+      [
+        -121.7490411,
+        38.5425646
+      ],
+      [
+        -121.7491252,
+        38.5425205
+      ]
+    ]
+  },
+  "26338202": {
+    "name": "North Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7482336,
+        38.541574
+      ],
+      [
+        -121.7483953,
+        38.5417659
+      ],
+      [
+        -121.7482336,
+        38.541574
+      ]
+    ]
+  },
+  "26338214": {
+    "name": "South Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7482059,
+        38.5414457
+      ],
+      [
+        -121.7480545,
+        38.5409758
+      ],
+      [
+        -121.748228,
+        38.5411634
+      ],
+      [
+        -121.7482059,
+        38.5414457
+      ]
+    ]
+  },
+  "26338229": {
+    "name": "Dutton Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7478585,
+        38.5415533
+      ]
+    ]
+  },
+  "26338850": {
+    "name": "Chemistry Annex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7504174,
+        38.5377794
+      ],
+      [
+        -121.7503649,
+        38.5375939
+      ],
+      [
+        -121.7503313,
+        38.537419
+      ],
+      [
+        -121.7504174,
+        38.5377794
+      ]
+    ]
+  },
+  "26482760": {
+    "name": "Silo",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7530681,
+        38.5388405
+      ],
+      [
+        -121.7527755,
+        38.5388394
+      ],
+      [
+        -121.7530007,
+        38.5386923
+      ],
+      [
+        -121.7530936,
+        38.5387103
+      ],
+      [
+        -121.7531301,
+        38.5386792
+      ],
+      [
+        -121.7531318,
+        38.5384801
+      ],
+      [
+        -121.7530681,
+        38.5388405
+      ]
+    ]
+  },
+  "26482801": {
+    "name": "South Silo",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7526081,
+        38.5383116
+      ],
+      [
+        -121.7527334,
+        38.5380955
+      ],
+      [
+        -121.7530247,
+        38.5380952
+      ],
+      [
+        -121.7526081,
+        38.5383116
+      ]
+    ]
+  },
+  "26482811": {
+    "name": "Tercero Commons",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7572566,
+        38.5363452
+      ],
+      [
+        -121.7571781,
+        38.5363243
+      ],
+      [
+        -121.757177,
+        38.5362189
+      ],
+      [
+        -121.757253,
+        38.5361747
+      ],
+      [
+        -121.7574331,
+        38.5360059
+      ],
+      [
+        -121.7572566,
+        38.5363452
+      ]
+    ]
+  },
+  "26673330": {
+    "name": "The Barn",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.754598,
+        38.5378737
+      ]
+    ]
+  },
+  "28310835": {
+    "name": "County of Yolo Davis Office Building",
+    "type": "civic",
+    "coordinates": []
+  },
+  "30471045": {
+    "name": "Art Annex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7488349,
+        38.5383875
+      ],
+      [
+        -121.7486871,
+        38.5384626
+      ],
+      [
+        -121.7485169,
+        38.538492
+      ],
+      [
+        -121.7488349,
+        38.5383875
+      ]
+    ]
+  },
+  "30471082": {
+    "name": "Housing Administration",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7561593,
+        38.542948
+      ]
+    ]
+  },
+  "32028445": {
+    "name": "Giedt Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7554199,
+        38.5378067
+      ],
+      [
+        -121.7551927,
+        38.5376798
+      ],
+      [
+        -121.7557031,
+        38.537821
+      ],
+      [
+        -121.7554199,
+        38.5378067
+      ]
+    ]
+  },
+  "32028519": {
+    "name": "Plant Reproductive Biology Facility",
+    "type": "university",
+    "coordinates": []
+  },
+  "32518689": {
+    "name": "Heitman Staff Learning Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7528699,
+        38.5377214
+      ],
+      [
+        -121.7528351,
+        38.5378372
+      ],
+      [
+        -121.7528699,
+        38.5377214
+      ]
+    ]
+  },
+  "32518774": {
+    "name": "Robbins Hall Annex",
+    "type": "university",
+    "coordinates": []
+  },
+  "39996663": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "39996664": {
+    "name": "Dairy",
+    "type": "university",
+    "coordinates": []
+  },
+  "39996665": {
+    "name": "Animal Sciences Teaching Facility 1",
+    "type": "university",
+    "coordinates": []
+  },
+  "39996666": {
+    "name": "Animal Sciences Teaching Facility 2",
+    "type": "university",
+    "coordinates": []
+  },
+  "39998573": {
+    "name": "TB 206",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7544527,
+        38.5355355
+      ],
+      [
+        -121.7542713,
+        38.5355675
+      ],
+      [
+        -121.7544527,
+        38.5355355
+      ]
+    ]
+  },
+  "39998574": {
+    "name": "TB 207",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7539257,
+        38.5357155
+      ],
+      [
+        -121.7539909,
+        38.5359475
+      ],
+      [
+        -121.7539257,
+        38.5357155
+      ]
+    ]
+  },
+  "39998575": {
+    "name": "Annual Fund Trailer",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7543103,
+        38.5358493
+      ],
+      [
+        -121.7544788,
+        38.5358187
+      ],
+      [
+        -121.754414,
+        38.5359484
+      ],
+      [
+        -121.7543103,
+        38.5358493
+      ]
+    ]
+  },
+  "39998576": {
+    "name": "Campus Data Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7545802,
+        38.5362234
+      ],
+      [
+        -121.7542475,
+        38.5362811
+      ],
+      [
+        -121.7545802,
+        38.5362234
+      ]
+    ]
+  },
+  "39998797": {
+    "name": "Meyer Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7549214,
+        38.5347386
+      ],
+      [
+        -121.7541488,
+        38.53474
+      ],
+      [
+        -121.7549214,
+        38.5347386
+      ]
+    ]
+  },
+  "40477291": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40477618": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "40477619": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40477620": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "40478087": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478088": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478089": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478090": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478091": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478092": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478093": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478094": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478095": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478096": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478097": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478098": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478099": {
+    "name": "Community Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "40478100": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478101": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478102": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478103": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478104": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478105": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478106": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478107": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478108": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478109": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "40478110": {
+    "name": "Office",
+    "type": "university",
+    "coordinates": []
+  },
+  "40478160": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478161": {
+    "name": "Conference and Event Services",
+    "type": "university",
+    "coordinates": []
+  },
+  "40478162": {
+    "name": "Hutchison Child Development Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "40478232": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478233": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478234": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478235": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478246": {
+    "name": "Child Development Center",
+    "type": "yes",
+    "coordinates": []
+  },
+  "40478247": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478248": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478249": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478250": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478251": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478252": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478253": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478254": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478255": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478256": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478257": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478258": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478259": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478260": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478261": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478262": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478263": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478264": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478265": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478266": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478267": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478268": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478269": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478270": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478271": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478272": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478273": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478274": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478275": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478276": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "40478277": {
+    "name": "Child Care and Community Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "41646674": {
+    "name": "TC1",
+    "type": "university",
+    "coordinates": []
+  },
+  "41646675": {
+    "name": "TC2 and 3",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7539763,
+        38.5353813
+      ]
+    ]
+  },
+  "41695264": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "42477637": {
+    "name": "Growth Chamber Building",
+    "type": "university",
+    "coordinates": []
+  },
+  "42477762": {
+    "name": "Recreation Pool Bath House",
+    "type": "yes",
+    "coordinates": []
+  },
+  "42478815": {
+    "name": null,
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.757102,
+        38.536057
+      ]
+    ]
+  },
+  "42732719": {
+    "name": "CHCP Chiller Building",
+    "type": "industrial",
+    "coordinates": []
+  },
+  "43007380": {
+    "name": "Law School Clinics",
+    "type": "university",
+    "coordinates": []
+  },
+  "43007381": {
+    "name": "Nelson Hall",
+    "type": "university",
+    "coordinates": []
+  },
+  "43007386": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43007388": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43007428": {
+    "name": "Hickey Gym",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7481445,
+        38.5439788
+      ],
+      [
+        -121.7485665,
+        38.5434962
+      ],
+      [
+        -121.7494087,
+        38.5436956
+      ],
+      [
+        -121.7494789,
+        38.5439777
+      ],
+      [
+        -121.7481445,
+        38.5439788
+      ]
+    ]
+  },
+  "43092109": {
+    "name": "Regan - Nova Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7560696,
+        38.5444161
+      ]
+    ]
+  },
+  "43092111": {
+    "name": "Regan Central Commons",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7563226,
+        38.5438599
+      ]
+    ]
+  },
+  "43092112": {
+    "name": "Regan - Campo Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7566924,
+        38.5440304
+      ]
+    ]
+  },
+  "43092113": {
+    "name": "Regan - Rienda Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7564995,
+        38.5444198
+      ]
+    ]
+  },
+  "43092114": {
+    "name": "Regan - Indio Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7549155,
+        38.5440844
+      ]
+    ]
+  },
+  "43092115": {
+    "name": "Regan - Sereno Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7552736,
+        38.543957
+      ]
+    ]
+  },
+  "43092116": {
+    "name": "Regan - Talara Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7554199,
+        38.5442137
+      ]
+    ]
+  },
+  "43092117": {
+    "name": "Regan - Paloma Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7553387,
+        38.5444798
+      ]
+    ]
+  },
+  "43092119": {
+    "name": "Student Affairs Annex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7544985,
+        38.5446584
+      ],
+      [
+        -121.7546394,
+        38.5448615
+      ],
+      [
+        -121.7544985,
+        38.5446584
+      ]
+    ]
+  },
+  "43094238": {
+    "name": "Primero Grove Community",
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7558154,
+        38.5453816
+      ]
+    ]
+  },
+  "43094239": {
+    "name": "Temporary Building 016 - The House",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7557,
+        38.5432839
+      ]
+    ]
+  },
+  "43094240": {
+    "name": null,
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7549628,
+        38.5432306
+      ]
+    ]
+  },
+  "43094241": {
+    "name": "Davis Student Cooperative",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7552943,
+        38.5434838
+      ]
+    ]
+  },
+  "43094242": {
+    "name": "Pierce - Student Cooperative",
+    "type": "university",
+    "coordinates": []
+  },
+  "43094243": {
+    "name": "Agrarian Effort - Student Cooperative housing",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7555162,
+        38.5430523
+      ]
+    ]
+  },
+  "43094424": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": [
+      [
+        -121.7550005,
+        38.541368
+      ]
+    ]
+  },
+  "43094425": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": [
+      [
+        -121.7549523,
+        38.541371
+      ]
+    ]
+  },
+  "43094426": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": [
+      [
+        -121.7546584,
+        38.5414558
+      ]
+    ]
+  },
+  "43150783": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "43150882": {
+    "name": "Gallagher Hall",
+    "type": "yes",
+    "coordinates": []
+  },
+  "43150902": {
+    "name": "Facilities Services",
+    "type": "university",
+    "coordinates": []
+  },
+  "43196724": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43196725": {
+    "name": "Bowley Plant Science Teaching Facility",
+    "type": "university",
+    "coordinates": []
+  },
+  "43196726": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43196733": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43196734": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43196735": {
+    "name": "Student farm house",
+    "type": "residential",
+    "coordinates": []
+  },
+  "43196947": {
+    "name": "Bike Barn",
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7522673,
+        38.5384681
+      ]
+    ]
+  },
+  "43523992": {
+    "name": "University House",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7475382,
+        38.5409479
+      ]
+    ]
+  },
+  "43523994": {
+    "name": "Educational Opportunity Program",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7478944,
+        38.5407743
+      ]
+    ]
+  },
+  "43990499": {
+    "name": "Engineering Unit 2 Wind Tunnel",
+    "type": "university",
+    "coordinates": []
+  },
+  "43990777": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43990778": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43990781": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "43990782": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "44152942": {
+    "name": null,
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7563047,
+        38.5385207
+      ],
+      [
+        -121.7561075,
+        38.5379031
+      ],
+      [
+        -121.7563047,
+        38.5385207
+      ]
+    ]
+  },
+  "44814236": {
+    "name": null,
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7534412,
+        38.5402508
+      ]
+    ]
+  },
+  "44814237": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "44814238": {
+    "name": null,
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7533527,
+        38.5402274
+      ],
+      [
+        -121.7531926,
+        38.5402149
+      ],
+      [
+        -121.7533527,
+        38.5402274
+      ]
+    ]
+  },
+  "44814239": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "44814240": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "44814342": {
+    "name": "Enology Laboratory Building",
+    "type": "university",
+    "coordinates": []
+  },
+  "45206545": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206546": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206548": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206549": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206550": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206551": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206552": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206553": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206554": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45206555": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206556": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206557": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206558": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45206559": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45208028": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45212498": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45212499": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212512": {
+    "name": "Guilbert House",
+    "type": "house",
+    "coordinates": []
+  },
+  "45212515": {
+    "name": "Zeta Psi Fraternity",
+    "type": "house",
+    "coordinates": []
+  },
+  "45212519": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212520": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "45212521": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212522": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212523": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212530": {
+    "name": "Conference and Event Services",
+    "type": "university",
+    "coordinates": []
+  },
+  "45212535": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212537": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "45212541": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212542": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212546": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "45212547": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45212548": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "45212550": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "45212551": {
+    "name": null,
+    "type": "commercial",
+    "coordinates": []
+  },
+  "45212552": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212553": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212554": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212555": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212556": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212567": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212568": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212569": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212571": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212572": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212573": {
+    "name": "Sam Len Hillel House",
+    "type": "church",
+    "coordinates": []
+  },
+  "45212575": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212576": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212578": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "45212581": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "72644550": {
+    "name": "Campbell Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7582585,
+        38.5350212
+      ],
+      [
+        -121.7586573,
+        38.5349485
+      ],
+      [
+        -121.7582532,
+        38.5352139
+      ],
+      [
+        -121.7582585,
+        38.5350212
+      ]
+    ]
+  },
+  "72644552": {
+    "name": "Wall Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7574214,
+        38.5347751
+      ],
+      [
+        -121.7576692,
+        38.5347892
+      ],
+      [
+        -121.7576206,
+        38.5349415
+      ],
+      [
+        -121.7577634,
+        38.535204
+      ],
+      [
+        -121.7574214,
+        38.5347751
+      ]
+    ]
+  },
+  "72644558": {
+    "name": "Potter Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7583525,
+        38.5347346
+      ],
+      [
+        -121.7586521,
+        38.5348952
+      ],
+      [
+        -121.7583525,
+        38.5347346
+      ]
+    ]
+  },
+  "76700822": {
+    "name": "Student Community Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7515526,
+        38.5396061
+      ],
+      [
+        -121.7515412,
+        38.5393965
+      ],
+      [
+        -121.7516143,
+        38.5393341
+      ],
+      [
+        -121.7519853,
+        38.5396537
+      ],
+      [
+        -121.7515526,
+        38.5396061
+      ]
+    ]
+  },
+  "76700942": {
+    "name": "Student Health and Wellness Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "122818047": {
+    "name": null,
+    "type": "civic",
+    "coordinates": []
+  },
+  "122818049": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "143349229": {
+    "name": "Segundo Services Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7586416,
+        38.5448957
+      ]
+    ]
+  },
+  "180325531": {
+    "name": "Schaal Aquatic Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "183691159": {
+    "name": "Aggie Stadium North",
+    "type": "university",
+    "coordinates": []
+  },
+  "183691160": {
+    "name": "Aggie Stadium East",
+    "type": "university",
+    "coordinates": []
+  },
+  "183691161": {
+    "name": "Aggie Stadium West",
+    "type": "university",
+    "coordinates": []
+  },
+  "183691162": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "183691163": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "183691164": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "183691165": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "183692018": {
+    "name": "Peter A. Rock Hall (Chemistry)",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.751533,
+        38.5388819
+      ]
+    ]
+  },
+  "184481048": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "199231104": {
+    "name": "Hyatt Place UC Davis",
+    "type": "yes",
+    "coordinates": []
+  },
+  "199288813": {
+    "name": "Conference Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "209296363": {
+    "name": "Scrub Oak Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7567518,
+        38.5367719
+      ],
+      [
+        -121.7566548,
+        38.5367317
+      ],
+      [
+        -121.7568973,
+        38.5367861
+      ],
+      [
+        -121.7567518,
+        38.5367719
+      ]
+    ]
+  },
+  "209296364": {
+    "name": "Hawthorn Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7581702,
+        38.5372198
+      ],
+      [
+        -121.7583163,
+        38.5373298
+      ],
+      [
+        -121.7581702,
+        38.5372198
+      ]
+    ]
+  },
+  "209296365": {
+    "name": "Mahogany Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7584501,
+        38.5367209
+      ],
+      [
+        -121.7585267,
+        38.5366122
+      ],
+      [
+        -121.7584501,
+        38.5367209
+      ]
+    ]
+  },
+  "209296366": {
+    "name": "Currant Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.756504,
+        38.5371417
+      ],
+      [
+        -121.7565344,
+        38.5372697
+      ],
+      [
+        -121.756504,
+        38.5371417
+      ]
+    ]
+  },
+  "209296367": {
+    "name": "Pine Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7558908,
+        38.5369143
+      ],
+      [
+        -121.7560701,
+        38.5369026
+      ],
+      [
+        -121.7558908,
+        38.5369143
+      ]
+    ]
+  },
+  "209296368": {
+    "name": "Live Oak Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7573626,
+        38.5372289
+      ],
+      [
+        -121.7573767,
+        38.5373852
+      ],
+      [
+        -121.7573626,
+        38.5372289
+      ]
+    ]
+  },
+  "209296369": {
+    "name": "Sequoia Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7576469,
+        38.5368149
+      ],
+      [
+        -121.7578158,
+        38.5368207
+      ],
+      [
+        -121.7576469,
+        38.5368149
+      ]
+    ]
+  },
+  "209297089": {
+    "name": "Earth and Physical Sciences",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.75147,
+        38.535179
+      ],
+      [
+        -121.7514769,
+        38.5348166
+      ],
+      [
+        -121.7517874,
+        38.5348638
+      ],
+      [
+        -121.7517632,
+        38.5351786
+      ],
+      [
+        -121.75174,
+        38.5355784
+      ],
+      [
+        -121.7515038,
+        38.5355302
+      ],
+      [
+        -121.75147,
+        38.535179
+      ]
+    ]
+  },
+  "209297091": {
+    "name": "Facilities Services",
+    "type": "university",
+    "coordinates": []
+  },
+  "209297092": {
+    "name": "Rifle Range",
+    "type": "yes",
+    "coordinates": []
+  },
+  "218964924": {
+    "name": "Wyatt Theater",
+    "type": "yes",
+    "coordinates": []
+  },
+  "220198343": {
+    "name": "Segundo Market",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.758231,
+        38.5449977
+      ]
+    ]
+  },
+  "247969550": {
+    "name": "Art Building",
+    "type": "yes",
+    "coordinates": []
+  },
+  "253117071": {
+    "name": "Toomey Weight Room",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7484058,
+        38.5442156
+      ]
+    ]
+  },
+  "254084618": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "254084680": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "254084681": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "254084682": {
+    "name": "Islamic Center of Davis",
+    "type": "yes",
+    "coordinates": []
+  },
+  "254084683": {
+    "name": "Pi Kappa Alpha",
+    "type": "yes",
+    "coordinates": []
+  },
+  "254084684": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "254559125": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "255168937": {
+    "name": null,
+    "type": "university",
+    "coordinates": []
+  },
+  "276149639": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "276149640": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "276149641": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "305748245": {
+    "name": "International House Davis",
+    "type": "university",
+    "coordinates": []
+  },
+  "345135920": {
+    "name": "Music",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7476388,
+        38.5392407
+      ],
+      [
+        -121.7474189,
+        38.5393729
+      ],
+      [
+        -121.7476388,
+        38.5392407
+      ]
+    ]
+  },
+  "345412326": {
+    "name": "Frank G. Parsons Seed Certification Center",
+    "type": "university",
+    "coordinates": []
+  },
+  "345413461": {
+    "name": "Facilities Structural Trailer",
+    "type": "university",
+    "coordinates": []
+  },
+  "345413462": {
+    "name": null,
+    "type": "university",
+    "coordinates": []
+  },
+  "345577758": {
+    "name": "Temporary Building 190",
+    "type": "university",
+    "coordinates": []
+  },
+  "346122061": {
+    "name": "CHCP Cooling Tower",
+    "type": "industrial",
+    "coordinates": []
+  },
+  "346122062": {
+    "name": "CHCP Electric Co-Generator",
+    "type": "industrial",
+    "coordinates": []
+  },
+  "346122063": {
+    "name": "CHCP Electrical",
+    "type": "industrial",
+    "coordinates": []
+  },
+  "346122065": {
+    "name": "Tercero Equipment",
+    "type": "university",
+    "coordinates": []
+  },
+  "346122066": {
+    "name": "Tercero Mechanical",
+    "type": "university",
+    "coordinates": []
+  },
+  "356647726": {
+    "name": "Greenhouse #621",
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "368708306": {
+    "name": "Environmental Horticulture",
+    "type": "yes",
+    "coordinates": []
+  },
+  "368708307": {
+    "name": null,
+    "type": "university",
+    "coordinates": []
+  },
+  "368708308": {
+    "name": "TB 9",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7463828,
+        38.5397341
+      ]
+    ]
+  },
+  "368708309": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "378582118": {
+    "name": "Art Studio",
+    "type": "university",
+    "coordinates": []
+  },
+  "378582119": {
+    "name": "Grounds Office",
+    "type": "university",
+    "coordinates": []
+  },
+  "378582120": {
+    "name": "Head House Grounds",
+    "type": "university",
+    "coordinates": []
+  },
+  "378582121": {
+    "name": "Lath House Grounds",
+    "type": "university",
+    "coordinates": []
+  },
+  "378582122": {
+    "name": "Regan Mechanical",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7565381,
+        38.5439363
+      ]
+    ]
+  },
+  "378829612": {
+    "name": "Animal Husbandry Dairy Scale",
+    "type": "university",
+    "coordinates": []
+  },
+  "378831388": {
+    "name": "Cruess Annex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7547264,
+        38.5430764
+      ]
+    ]
+  },
+  "378832753": {
+    "name": "Segundo Electric Vehicle Garage",
+    "type": "yes",
+    "coordinates": []
+  },
+  "378840963": {
+    "name": "Young Hall Storage Annex",
+    "type": "university",
+    "coordinates": []
+  },
+  "378842336": {
+    "name": "Enology Laboratory Building",
+    "type": "university",
+    "coordinates": []
+  },
+  "388805068": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390758825": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758826": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758827": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758828": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758830": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758831": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758832": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758833": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758834": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758835": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758836": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758842": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758843": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758844": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758847": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390758848": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390758849": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390758850": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390758851": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758852": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390758853": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "390759543": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759544": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759545": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759546": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759547": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759548": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759549": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759550": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759551": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "390759552": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391074387": {
+    "name": "Amphitheater",
+    "type": "roof",
+    "coordinates": []
+  },
+  "391316114": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "391440159": {
+    "name": "Ann E. Pitzer Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7466848,
+        38.5397142
+      ],
+      [
+        -121.7470973,
+        38.5392512
+      ],
+      [
+        -121.7466848,
+        38.5397142
+      ]
+    ]
+  },
+  "391662487": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662488": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662489": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662490": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662491": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662492": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662493": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662494": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662495": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662496": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662497": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662498": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662499": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662500": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662501": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662502": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662503": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662504": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662505": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "391662506": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "391662507": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662508": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662509": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662510": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662511": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662512": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662513": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662514": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662515": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662516": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662517": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662518": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662519": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662520": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662521": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662522": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662523": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662524": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662525": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662526": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662527": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662528": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662529": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662530": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662531": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662532": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662533": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662534": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662535": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662536": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662537": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662538": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662539": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662540": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662541": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662542": {
+    "name": null,
+    "type": "greenhouse",
+    "coordinates": []
+  },
+  "391662543": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "391662544": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "391697963": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "391823250": {
+    "name": "Laundry Room",
+    "type": "shed",
+    "coordinates": []
+  },
+  "391823251": {
+    "name": "Laundry Room A",
+    "type": "yes",
+    "coordinates": []
+  },
+  "391823252": {
+    "name": "Laundry Room",
+    "type": "shed",
+    "coordinates": []
+  },
+  "391823253": {
+    "name": "Laundry Room",
+    "type": "shed",
+    "coordinates": []
+  },
+  "397703326": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703327": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703332": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703335": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703336": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703585": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703586": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "397703587": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "404670050": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "404807847": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "404807849": {
+    "name": null,
+    "type": "garage",
+    "coordinates": []
+  },
+  "404807850": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "404807852": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "406081981": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "407265134": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "407579831": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579832": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579833": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579835": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579848": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579849": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579850": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "407579851": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "443855431": {
+    "name": "International Center",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7544938,
+        38.5454822
+      ],
+      [
+        -121.7546311,
+        38.5452552
+      ],
+      [
+        -121.7542368,
+        38.5459048
+      ],
+      [
+        -121.7544938,
+        38.5454822
+      ]
+    ]
+  },
+  "525662598": {
+    "name": "Olive Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7572609,
+        38.5356348
+      ]
+    ]
+  },
+  "538055890": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "538055896": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "550913776": {
+    "name": null,
+    "type": "garage",
+    "coordinates": []
+  },
+  "550913777": {
+    "name": null,
+    "type": "garage",
+    "coordinates": []
+  },
+  "586138789": {
+    "name": null,
+    "type": "industrial",
+    "coordinates": []
+  },
+  "586138790": {
+    "name": "Central Heating and Cooling Plant",
+    "type": "industrial",
+    "coordinates": []
+  },
+  "586206852": {
+    "name": null,
+    "type": "yes",
+    "coordinates": [
+      [
+        -121.7466074,
+        38.5402921
+      ]
+    ]
+  },
+  "603637005": {
+    "name": "Sprocket Annex",
+    "type": "university",
+    "coordinates": []
+  },
+  "616393558": {
+    "name": "Redwood Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7560537,
+        38.5355974
+      ],
+      [
+        -121.7559387,
+        38.535594
+      ],
+      [
+        -121.755758,
+        38.5360164
+      ],
+      [
+        -121.7560537,
+        38.5355974
+      ]
+    ]
+  },
+  "616393559": {
+    "name": "Cottonwood Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7563564,
+        38.5360192
+      ],
+      [
+        -121.7562867,
+        38.5358394
+      ],
+      [
+        -121.7563564,
+        38.5360192
+      ]
+    ]
+  },
+  "616393560": {
+    "name": "Madrone Hall",
+    "type": "dormitory",
+    "coordinates": [
+      [
+        -121.7566572,
+        38.535356
+      ],
+      [
+        -121.7563931,
+        38.5355064
+      ],
+      [
+        -121.7566572,
+        38.535356
+      ]
+    ]
+  },
+  "641107098": {
+    "name": null,
+    "type": "stadium",
+    "coordinates": []
+  },
+  "641107101": {
+    "name": null,
+    "type": "stadium",
+    "coordinates": []
+  },
+  "662229492": {
+    "name": "California Hall",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7528046,
+        38.5412258
+      ]
+    ]
+  },
+  "697503378": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "697503379": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611436": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611437": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611438": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611439": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611440": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611441": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611442": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611443": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611444": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611445": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611446": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611447": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611448": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611449": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611450": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611451": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611452": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611453": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611454": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "753611455": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611456": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "753611459": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "840218934": {
+    "name": null,
+    "type": "university",
+    "coordinates": []
+  },
+  "858659527": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "935459744": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "935459745": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "935459746": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "935459747": {
+    "name": null,
+    "type": "semidetached_house",
+    "coordinates": []
+  },
+  "957630735": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "957630736": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "957640187": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "957640188": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "957640189": {
+    "name": null,
+    "type": "residential",
+    "coordinates": []
+  },
+  "964556002": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "988760731": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "990150741": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "990150744": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "990210778": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "990210779": {
+    "name": null,
+    "type": "house",
+    "coordinates": []
+  },
+  "990992320": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "992089886": {
+    "name": null,
+    "type": "storage",
+    "coordinates": []
+  },
+  "992089887": {
+    "name": null,
+    "type": "storage",
+    "coordinates": []
+  },
+  "992089888": {
+    "name": null,
+    "type": "storage",
+    "coordinates": []
+  },
+  "992089916": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "992813083": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "992813084": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "992813085": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "993059581": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "993059582": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "993059583": {
+    "name": null,
+    "type": "roof",
+    "coordinates": []
+  },
+  "993553435": {
+    "name": "Teaching and Learning Complex",
+    "type": "university",
+    "coordinates": [
+      [
+        -121.7535614,
+        38.5389
+      ],
+      [
+        -121.7540402,
+        38.5385858
+      ],
+      [
+        -121.7544318,
+        38.5387301
+      ],
+      [
+        -121.7538973,
+        38.5389066
+      ],
+      [
+        -121.7535614,
+        38.5389
+      ]
+    ]
+  },
+  "1093745099": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "1093745100": {
+    "name": null,
+    "type": "apartments",
+    "coordinates": []
+  },
+  "1172659380": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "1172659381": {
+    "name": null,
+    "type": "yes",
+    "coordinates": []
+  },
+  "1205248744": {
+    "name": null,
+    "type": "detached",
+    "coordinates": []
+  },
+  "1205248745": {
+    "name": null,
+    "type": "detached",
+    "coordinates": []
+  },
+  "1205248746": {
+    "name": null,
+    "type": "detached",
+    "coordinates": []
+  },
+  "1205248747": {
+    "name": null,
+    "type": "detached",
+    "coordinates": []
+  },
+  "1256352756": {
+    "name": "UC Davis Health \u2013 Davis Campus Clinic",
+    "type": "yes",
+    "coordinates": []
+  }
+}

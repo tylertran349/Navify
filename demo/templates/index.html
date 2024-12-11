@@ -1,0 +1,70 @@
+<!-- templates/index.html -->
+{% extends "base.html" %}
+
+{% block title %}Home - Navify{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card p-4">
+                <h3 class="card-title text-center mb-4">Find the Best Path</h3>
+                {% if error_message %}
+                    <div class="alert alert-danger" role="alert">
+                        {{ error_message }}
+                    </div>
+                {% endif %}
+                <form method="post">
+                    <div class="mb-4">
+                        <label for="start_position" class="form-label">Start Position</label>
+                        <select name="start_position" id="start_position" class="form-select" required>
+                            <option value="" disabled selected>Select Start Position</option>
+                            {% for name in building_names %}
+                                <option value="{{ name }}">{{ name }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="mb-4">
+                        <label for="end_position" class="form-label">End Position</label>
+                        <select name="end_position" id="end_position" class="form-select" required>
+                            <option value="" disabled selected>Select End Position</option>
+                            {% for name in building_names %}
+                                <option value="{{ name }}">{{ name }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Transportation Mode</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="transportation_mode" id="walking" value="Walking" checked>
+                            <label class="form-check-label" for="walking">
+                                Walking
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="transportation_mode" id="biking" value="Biking">
+                            <label class="form-check-label" for="biking">
+                                Biking
+                            </label>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <label class="form-label">Safe Mode</label>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="safe_mode" id="safe_on" value="On" checked>
+                            <label class="form-check-label" for="safe_on">
+                                On
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="safe_mode" id="safe_off" value="Off">
+                            <label class="form-check-label" for="safe_off">
+                                Off
+                            </label>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Find Path</button>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,56 @@
+<!-- templates/select_position_map.html -->
+{% extends "base.html" %}
+
+{% block title %}Select Position - {{ building_name }}{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="card p-4">
+                <h3 class="card-title text-center mb-4">{{ prompt_text }}</h3>
+                {% if error_message %}
+                    <div class="alert alert-danger" role="alert">
+                        {{ error_message }}
+                    </div>
+                {% endif %}
+                <div id="map"></div>
+                <form method="post" class="mt-4">
+                    <input type="hidden" name="selected_position" id="selected_position">
+                    <button type="submit" class="btn btn-success w-100">Confirm Position</button>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([38.5382, -121.7617], 15);  // Adjust coordinates as needed
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        let marker;
+
+        function onMapClick(e) {
+            const selectedPositionInput = document.getElementById('selected_position');
+            const lat = e.latlng.lat;
+            const lon = e.latlng.lng;
+
+            if (marker) {
+                map.removeLayer(marker);
+            }
+
+            marker = L.marker(e.latlng).addTo(map)
+                .bindPopup(`Selected Position: (${lat.toFixed(5)}, ${lon.toFixed(5)})`)
+                .openPopup();
+
+            selectedPositionInput.value = `${lat},${lon}`;
+        }
+
+        map.on('click', onMapClick);
+    </script>
+{% endblock %}

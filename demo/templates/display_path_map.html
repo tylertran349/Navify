@@ -1,0 +1,56 @@
+<!-- templates/display_path_map.html -->
+{% extends "base.html" %}
+
+{% block title %}Path Result{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <div class="card p-4">
+                <h3 class="card-title text-center mb-4">Path Result</h3>
+                <p class="lead text-center">{{ info_message }}</p>
+                <div id="map"></div>
+                {% if next_step %}
+                    <form method="post" class="mt-4">
+                        <button type="submit" class="btn btn-primary w-100">Next</button>
+                    </form>
+                {% else %}
+                    <a href="{{ url_for('reset') }}" class="btn btn-primary w-100 mt-4">Start Over</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block scripts %}
+    <script>
+        // Initialize the map to fit the path
+        const map = L.map('map').fitBounds([
+            {% for lat, lon in path_coords %}
+                [{{ lat }}, {{ lon }}]{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ]);
+
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // Draw the path
+        const pathCoords = [
+            {% for lat, lon in path_coords %}
+                [{{ lat }}, {{ lon }}]{% if not loop.last %},{% endif %}
+            {% endfor %}
+        ];
+        const pathLine = L.polyline(pathCoords, {color: 'blue', weight: 4}).addTo(map);
+
+        // Markers for start and end positions
+        if (pathCoords.length > 0) {
+            // Start Marker
+            L.marker(pathCoords[0]).addTo(map).bindPopup('Start Position').openPopup();
+
+            // End Marker
+            L.marker(pathCoords[pathCoords.length - 1]).addTo(map).bindPopup('End Position');
+        }
+    </script>
+{% endblock %}

@@ -1,0 +1,52 @@
+<!-- templates/select_position_image.html -->
+{% extends "base.html" %}
+
+{% block title %}Select Position - {{ building_name }}{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card p-4 shadow-sm">
+            <h3 class="card-title text-center mb-4">{{ prompt_text }}</h3>
+            {% if error_message %}
+                <div class="alert alert-danger text-center">{{ error_message }}</div>
+            {% endif %}
+            <div id="image-container" class="position-relative d-inline-block w-100">
+                <img id="floorplan-image" src="data:image/png;base64,{{ image_data }}" alt="Floor Plan" class="img-fluid w-100" style="cursor: crosshair; max-height: 60vh; object-fit: contain;">
+                <div id="marker" class="position-absolute" style="display: none; width: 10px; height: 10px; background-color: red; border-radius: 50%; transform: translate(-50%, -50%); pointer-events: none;"></div>
+            </div>
+            <form method="post" class="mt-4">
+                <input type="hidden" name="selected_position" id="selected_position">
+                <button type="submit" class="btn btn-primary btn-lg w-100">Confirm</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const img = document.getElementById('floorplan-image');
+        const marker = document.getElementById('marker');
+        const selectedPositionInput = document.getElementById('selected_position');
+
+        img.addEventListener('click', function(event) {
+            const rect = img.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            const relX = x / img.width;
+            const relY = y / img.height;
+
+            // Show marker at the clicked position
+            marker.style.left = `${x}px`;
+            marker.style.top = `${y}px`;
+            marker.style.display = 'block';
+
+            // Store the relative position
+            selectedPositionInput.value = `${relX},${relY}`;
+        });
+    });
+</script>
+{% endblock %}

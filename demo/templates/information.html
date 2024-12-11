@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}Information - Navify{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="mb-4">Information</h1>
+            <p>
+                This is a class project for the course 
+                <a href="https://cs.ucdavis.edu/schedules-classes/ecs-170-introduction-artificial-intelligence" target="_blank">
+                    ECS170 Introduction to AI
+                </a> 
+                at UC Davis. It calculates the shortest path between or within two buildings and takes into account various factors, including:
+            </p>
+            <ul>
+                <li>Weather</li>
+                <li>Traffic</li>
+                <li>Transportation mode</li>
+                <li>Distance from crime areas</li>
+            </ul>
+            <p>
+                The project uses computer vision to analyze floorplans from different buildings and implements an A* algorithm to find 
+                the shortest path within and between buildings. Filtering for the pathfinding algorithm is based on various APIs and 
+                open-source libraries. 
+            </p>
+            <p>
+                Details of the implementation are available on 
+                <a href="https://github.com/tartem26/Code" target="_blank">GitHub</a>.
+            </p>
+            <h2 class="mt-4">Group Members</h2>
+            <ul>
+                <li>Artem Tikhonov</li>
+                <li>Albin Franzen</li>
+                <li>Daniel Chu</li>
+                <li>Ryan Khuu</li>
+                <li>Liam Glenn</li>
+                <li>Shintaro Ito</li>
+                <li>Tyler Tran</li>
+                <li>Ken Nguyen</li>
+            </ul>
+            <a href="{{ url_for('index') }}" class="btn btn-primary mt-3">Back to Home</a>
+        </div>
+    </div>
+{% endblock %}

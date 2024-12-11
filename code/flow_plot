@@ -1,0 +1,157 @@
+# filename: plot_with_flow_gradient.py
+
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+import math
+import pandas as pd
+import numpy as np
+import os
+import pickle
+from matplotlib.collections import LineCollection
+from database import Database  # Ensure Node and Edge classes are defined appropriately
+from flowDataRetriever import flowDataRetriever
+from get_crime_data import haversine, get_multiplier, calculate_edge_multipliers
+from weatherDataRetriever import get_weather_data
+from weightCalculator import WeightCalculator  # Assuming WeightCalculator is in weightCalculator.py
+
+def load_database():
+    """
+    Loads the Database object from 'database.pkl'.
+    
+    Returns:
+    - database (Database): The loaded Database object.
+    
+    Raises:
+    - FileNotFoundError: If 'database.pkl' is not found.
+    """
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    database_path = os.path.join(script_dir, 'database.pkl')
+    if not os.path.exists(database_path):
+        raise FileNotFoundError(f"Database file '{database_path}' not found.")
+    
+    with open(database_path, 'rb') as f:
+        database = pickle.load(f)  # Assuming database is a Database object
+    
+    return database
+
+def main():
+    # Load the Database
+    try:
+        db = load_database()
+        print("Database loaded successfully.")
+    except FileNotFoundError as e:
+        print(e)
+        print("Please ensure 'database.pkl' is present in the script directory.")
+        return
+
+    # Initialize WeightCalculator and calculate weights
+    weight_calculator = WeightCalculator(database=db)
+    transport_mode = True  # Example: True for biking, False for walking
+    safety_mode = True     # Example: True to consider safety weights
+
+    # Calculate weights based on current conditions
+    weight_calculator.calculate_weights(transport_mode=transport_mode, safety_mode=safety_mode)
+    print("Weights calculated based on transport and safety modes.")
+
+    # Retrieve flow data
+    flow_edges = weight_calculator.flow_data_collector.get_flow_edges()
+    flows = weight_calculator.flow_data_collector.get_traffic_data()
+
+    # Create a mapping from edges to flow values
+    edge_flow_dict = {}
+    for i in range(len(flow_edges)):
+        for edge in flow_edges[i]:
+            edge_flow_dict[edge] = flows[i]
+
+    # Prepare data for plotting
+    all_edges = db.get_all_edges()  # Assuming get_all_edges() returns a list of all Edge objects
+
+    lines_with_flow = []
+    flow_values = []
+    lines_without_flow = []
+
+    for edge in all_edges:
+        node1 = edge.node1
+        node2 = edge.node2
+        line = [(node1.x, node1.y), (node2.x, node2.y)]
+        
+        if edge in edge_flow_dict:
+            lines_with_flow.append(line)
+            flow_values.append(edge_flow_dict[edge])
+        else:
+            lines_without_flow.append(line)
+
+
+    # Create LineCollections
+    if flow_values:
+        lc_with_flow = LineCollection(
+            lines_with_flow, 
+            cmap='coolwarm', 
+            norm=plt.Normalize(vmin=min(flow_values), vmax=max(flow_values))
+        )
+        lc_with_flow.set_array(np.array(flow_values))
+        lc_with_flow.set_linewidth(2)
+        print("LineCollection for flow-affected edges created.")
+    else:
+        lc_with_flow = None
+        print("No flow data available for LineCollection.")
+
+    # Adjust alpha for default edges to reduce blending
+    lc_without_flow = LineCollection(
+        lines_without_flow, 
+        colors='lightgray', 
+        linewidths=1, 
+        alpha=0.3  # Reduced alpha from 0.5 to 0.3
+    )
+    print("LineCollection for default edges created.")
+
+    # Plotting
+    fig, ax = plt.subplots(figsize=(12, 10))
+
+    # Add LineCollections to the plot
+    # Plot default edges first
+    ax.add_collection(lc_without_flow)
+    print("Default LineCollection added to the plot.")
+
+    # Then plot flow-affected edges on top
+    if lc_with_flow:
+        ax.add_collection(lc_with_flow)
+        print("Flow-affected LineCollection added to the plot.")
+
+    # Set plot limits dynamically based on all edges to ensure all are visible
+    all_lats = [node.y for edge in all_edges for node in [edge.node1, edge.node2]]
+    all_lons = [node.x for edge in all_edges for node in [edge.node1, edge.node2]]
+
+    buffer = 0.001  # Approximately 111 feet per 0.001 degree
+    lat_min_plot = min(all_lats) - buffer
+    lat_max_plot = max(all_lats) + buffer
+    lon_min_plot = min(all_lons) - buffer
+    lon_max_plot = max(all_lons) + buffer
+
+    ax.set_xlim(lon_min_plot, lon_max_plot)
+    ax.set_ylim(lat_min_plot, lat_max_plot)
+    print(f"Plot limits set to Latitude: {lat_min_plot} to {lat_max_plot}, Longitude: {lon_min_plot} to {lon_max_plot}")
+
+    # Set labels and title
+    ax.set_xlabel('Longitude')
+    ax.set_ylabel('Latitude')
+    #ax.set_title('Edge Flow Visualization with Traffic Flow Gradient')
+
+    # Add colorbar for flow values
+    if lc_with_flow:
+        cbar = fig.colorbar(lc_with_flow, ax=ax, orientation='vertical', label='Traffic Flow Intensity')
+        cbar.set_label('Traffic Flow Intensity')
+        print("Colorbar added to the plot.")
+    else:
+        print("No colorbar added since there are no flow-affected edges.")
+
+    # Enhance layout
+    plt.tight_layout()
+    print("Layout enhanced.")
+
+    # Show plot
+    plt.show()
+    print("Plot displayed.")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,16 @@
+<!-- templates/display_total_time.html -->
+{% extends "base.html" %}
+
+{% block title %}Total Travel Time{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card p-4 text-center">
+                <h3 class="card-title mb-4">Total Travel Time</h3>
+                <p class="lead">{{ info_message }}</p>
+                <a href="{{ url_for('reset') }}" class="btn btn-primary w-100 mt-4">Start Over</a>
+            </div>
+        </div>
+    </div>
+{% endblock %}
